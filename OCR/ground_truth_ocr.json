@@ -1,0 +1,12 @@
+[
+  {
+    "image_path": "/content/OCR/20220101_035959.jpg",
+    "annotations": {
+      "ocr": [
+        "POR ORDEN DEL Sr. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS.",
+        "Por orden del Sr. Comisario se prohibe entrar armado y con sombrero al despacho de bebidas.",
+        "POR ORDEN DEL SR. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS."
+      ]
+    }
+  }
+]
