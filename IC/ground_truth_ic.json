@@ -1,0 +1,10 @@
+[
+  {
+    "image_path": "/content/IC/01.jpg",
+    "annotations": {
+      "ic_basic": "A golden coin of 500 pesos. The coin is on a green bill.",
+      "ic_intermediate": "This picture shows a 500 chilean pesos coin as it´s center piece. All that is seen in the picture is money. Below the coin, a green bill is seen, presumably one of 1000 chilean pesos",
+      "ic_advanced": "The image centers on a 500-Chilean-peso coin, which stands out as the focal element of the composition. Surrounding it, the entire frame is filled exclusively with money, emphasizing a theme of currency and value. Beneath the coin lies a green banknote, most likely a 1,000-peso bill, partially visible and adding contrast in both color and texture. The metallic shine of the coin draws immediate attention, while the paper bill introduces a softer visual layer. The arrangement appears deliberate, as if meant to highlight the relationship between different denominations. The close-up perspective allows small details—edges, textures, and printing patterns—to be clearly observed. Overall, the scene conveys a simple yet focused depiction of Chilean currency."
+    }
+  }
+]
