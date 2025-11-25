@@ -1,12 +1,18 @@
 [
   {
     "image_path": "/content/OCR/20220101_035959.jpg",
-    "annotations": {
-      "ocr": [
-        "POR ORDEN DEL Sr. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS.",
-        "Por orden del Sr. Comisario se prohibe entrar armado y con sombrero al despacho de bebidas.",
-        "POR ORDEN DEL SR. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS."
+    "annotations": [
+        "POR ORDEN DEL Sr. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS. ORDEN POLICIAL. FEBRERO 1892.",
+        "Por orden del Sr. Comisario se prohibe entrar armado y con sombrero al despacho de bebidas. Orden Policial. Febrero 1892.",
+        "POR ORDEN DEL SR. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS. ORDEN POLICIAL. FEBRERO 1892."
       ]
-    }
+  },
+  {
+    "image_path": "/content/OCR/20230214_122422.jpg",
+    "annotations": [
+        "EL MUSEO HISTÓRICO NACIONAL ESTÁ ABIERTO. ENTRADA GRATUITA. TE ESPERAMOS",
+        "El museo histórico nacional está abierto. Entrada gratuita. Te esperamos",
+        "El Museo Histórico Nacional está abierto. Entrada Gratuita. Te Esperamos."
+      ]
   }
 ]
