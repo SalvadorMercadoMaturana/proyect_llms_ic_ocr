@@ -1,10 +1,18 @@
 [
   {
     "image_path": "/content/IC/01.jpg",
-    "annotations": {
-      "ic_basic": "A golden coin of 500 pesos. The coin is on a green bill.",
-      "ic_intermediate": "This picture shows a 500 chilean pesos coin as it´s center piece. All that is seen in the picture is money. Below the coin, a green bill is seen, presumably one of 1000 chilean pesos",
-      "ic_advanced": "The image centers on a 500-Chilean-peso coin, which stands out as the focal element of the composition. Surrounding it, the entire frame is filled exclusively with money, emphasizing a theme of currency and value. Beneath the coin lies a green banknote, most likely a 1,000-peso bill, partially visible and adding contrast in both color and texture. The metallic shine of the coin draws immediate attention, while the paper bill introduces a softer visual layer. The arrangement appears deliberate, as if meant to highlight the relationship between different denominations. The close-up perspective allows small details—edges, textures, and printing patterns—to be clearly observed. Overall, the scene conveys a simple yet focused depiction of Chilean currency."
-    }
+    "annotations": [
+	"A golden coin of 500 pesos. The coin is on a green bill.",
+	"This picture shows a 500 chilean pesos coin as it´s center piece. All that is seen in the picture is money. Below the coin, a green bill is seen, presumably one of 1000 chilean pesos",
+	"The image centers on a 500-Chilean-peso coin, which stands out as the focal element of the composition. Surrounding it, the entire frame is filled exclusively with money, emphasizing a theme of currency and value. Beneath the coin lies a green banknote, most likely a 1,000-peso bill, partially visible and adding contrast in both color and texture. The metallic shine of the coin draws immediate attention, while the paper bill introduces a softer visual layer. The arrangement appears deliberate, as if meant to highlight the relationship between different denominations. The close-up perspective allows small details—edges, textures, and printing patterns—to be clearly observed. Overall, the scene conveys a simple yet focused depiction of Chilean currency."
+    ]
+  },
+  {
+    "image_path": "/content/IC/02.jpg",
+    "annotations": [
+	"An empty train track in the desert. The weather is clear",
+	"The image shows an empty train track running straight through a desert landscape. The ground around the track is dry and sparse, with very little vegetation. In the distance, the terrain extends toward low hills under a clear sky. The overall scene feels open, quiet, and isolated.",
+	"The image depicts a long and empty train track cutting across a wide desert environment. The ground is dry and mostly barren, with only small patches of vegetation scattered on both sides. The landscape stretches far into the distance, gradually meeting low hills on the horizon. Overhead, the weather is clear, and the sky appears bright with a few soft clouds. The straight alignment of the track reinforces a sense of depth and direction. The overall setting feels remote and uninhabited, emphasizing the stillness of the desert surroundings."
+    ]
   }
 ]
