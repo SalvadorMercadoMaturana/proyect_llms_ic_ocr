@@ -1,18 +1,116 @@
 [
   {
-    "image_path": "/content/OCR/20220101_035959.jpg",
+    "image_path": "/content/OCR/20250819_074858.jpg",
     "annotations": [
-        "POR ORDEN DEL Sr. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS. ORDEN POLICIAL. FEBRERO 1892.",
-        "Por orden del Sr. Comisario se prohibe entrar armado y con sombrero al despacho de bebidas. Orden Policial. Febrero 1892.",
-        "POR ORDEN DEL SR. COMISARIO SE PROHIBE ENTRAR ARMADO Y CON SOMBRERO AL DESPACHO DE BEBIDAS. ORDEN POLICIAL. FEBRERO 1892."
-      ]
+      "Cuartel\n“Manuel Antonio Matta”\n\nLa Sexta Compañía de Bomberos de Santiago,\n“Salvadores i Guardia de Propiedad”,\nrinde homenaje a quien fuera su Director Fundador\ny primer Director Honorario de la Institución\n\nDon Manuel Antonio Matta Goyenechea\n\ncon motivo del Centésimo Sexagésimo aniversario\nde Fundación.\n\nSantiago, agosto de 2023",
+      "Cuartel “Manuel Antonio Matta”. La Sexta Compañía de Bomberos de Santiago rinde homenaje a su Director Fundador y primer Director Honorario, Don Manuel Antonio Matta Goyenechea, con motivo del 160° aniversario de la institución. Santiago, agosto de 2023.",
+      "Cuartel Manuel Antonio Matta — Homenaje de la Sexta Compañía de Bomberos (160° Aniversario, 2023)"
+    ]
   },
   {
     "image_path": "/content/OCR/20230214_122422.jpg",
     "annotations": [
-        "EL MUSEO HISTÓRICO NACIONAL ESTÁ ABIERTO. ENTRADA GRATUITA. TE ESPERAMOS",
-        "El museo histórico nacional está abierto. Entrada gratuita. Te esperamos",
-        "El Museo Histórico Nacional está abierto. Entrada Gratuita. Te Esperamos."
-      ]
+      "El Museo\nHistórico\nNacional\nestá abierto\n\nEntrada\ngratuita\n\nTe esperamos\n\nMUSEO\nHISTÓRICO\nNACIONAL",
+      "El Museo Histórico Nacional está abierto. Entrada gratuita. Te esperamos.",
+      "Museo Histórico Nacional: Entrada Gratuita — Te Esperamos"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20230430_150424.jpg",
+    "annotations": [
+      "a carnivore\nSmilodon\n\nThe enormous\ncanine teeth\nof the\nsaber-toothed\ncat\nare its\nmost obvious\nfeature,\nbut not\nall carnivores\nhave them.\n\nThe distinguishing\nevolutionary feature\nof this group\nof mammals\nis found further back\nin Smilodon's mouth:\na pair of scissorlike\nteeth on each side\nthat are used\nfor slicing meat.\n\nSmilodon floridanus\n(Smi-lo-don flo-ri-da-nus)\n\"chisel tooth\"\n\nAMNH 14398, collected by University of California, 1914,\nRancho La Brea, Los Angeles, California\nSmilodon floridanus lived 25,000 years ago,\nin the Pleistocene Epoch",
+      "Smilodon era un mamífero carnívoro con grandes colmillos en forma de sable. Su rasgo evolutivo más distintivo es un par de dientes semejantes a tijeras ubicados más atrás en la boca, utilizados para cortar carne. Smilodon floridanus vivió hace unos 25.000 años en el Pleistoceno.",
+      "Smilodon (Saber-Toothed Cat): Dientes Característicos y Evolución — Smilodon Floridanus, Pleistoceno"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20230511_133754.jpg",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm\n\nEste edificio se construyó a fines de la década de 1920 para albergar la\nEscuela de Arquitectura, que entre 1900 y 1943 fue parte de la\nFacultad de Ciencias Físicas y Matemáticas. En 1944 la Escuela de\nArquitectura se transformó en una Facultad independiente,\ncontinuando su funcionamiento en este lugar hasta su traslado a la\ncomuna de Cerrillos en 1957. Ese mismo año se trasladó al primer piso\ndel edificio el entonces Instituto de Geología, que a partir de 1965 se\nconstituyó formalmente como uno de los departamentos académicos\nde la Facultad. Entre 1958 y 1974 una parte de la Facultad de Ciencias\nQuímicas y Farmacéuticas ocupó el segundo piso del edificio.",
+      "Este edificio fue construido a fines de la década de 1920 para alojar la Escuela de Arquitectura. Entre 1900 y 1943 formó parte de la Facultad de Ciencias Físicas y Matemáticas. En 1944 pasó a ser facultad independiente y funcionó aquí hasta 1957, cuando se trasladó a Cerrillos. Ese mismo año, el Instituto de Geología se instaló en el primer piso, convirtiéndose en departamento académico en 1965. Entre 1958 y 1974, parte de la Facultad de Ciencias Químicas y Farmacéuticas ocupó el segundo piso.",
+      "Memoria Histórica FCFM: Historia del Edificio de Arquitectura (1920–1974)"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20230811_151805.jpg",
+    "annotations": [
+      "Pequeños con grandes sentimientos\n1990–2015\n\n¿Has escuchado el dicho «ponerse en los zapatos del otro»? Esta frase nos\nhabla de la empatía, o sea, de entender los sentimientos de las otras personas.\nDesde los años ’80, las ilustraciones danesas nos invitan a viajar por el\nmundo interior de las y los niños, enfocándose en las emociones que\nexperimentan en sus distintas etapas. A partir de los años ’90, se presta\nespecial atención a las relaciones entre hermanos o amigos, a la visión que los\nniños tienen de sus padres y abuelos, y a su desarrollo junto a los adultos.",
+      "‘Pequeños con grandes sentimientos’ (1990–2015) destaca la importancia de la empatía y cómo las ilustraciones han explorado las emociones de niños y niñas desde los 80. En los 90, se enfatizó la relación con hermanos, amigos y adultos.",
+      "Pequeños con Grandes Sentimientos (1990–2015): Empatía, Emociones y Relaciones Infantiles"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20231108_090334.jpg",
+    "annotations": [
+      "Mujeres en profesiones\nsanitarias. Chile, 1834–1950\n\nEsta exposición fotográfica es el resultado de un\nproyecto que propuso investigar, reconocer y rescatar el\nrol de las mujeres en profesiones sanitarias hasta la\nprimera mitad del siglo XX, a través de su aparición en\nlos registros fotográficos del Museo Nacional de\nMedicina.\n\nEsta muestra visibiliza parte de la historia de la\nprofesionalización, el trabajo, y contribución social y\ncientífica femenina en el área de la salud. Las\nprofesionales mujeres representadas aquí son:\nmatronas, médicas, dentistas, farmacéuticas,\nenfermeras, visitadoras sociales, dietistas y\ntécnico-laborantes.\n\nAparte de la exposición, el proyecto contempló la\nelaboración del libro Mujeres en profesiones sanitarias,\n1834–1950, disponible al público online con libre acceso.\n\n01. Estudiante de enfermería de la Universidad\nde Chile realizando educación prenatal,\ndurante su práctica en salud pública, c.1956.",
+      "La exposición ‘Mujeres en profesiones sanitarias (1834–1950)’ rescata el rol histórico de mujeres en salud en Chile. Destaca su profesionalización, su aporte científico y su labor social. Incluye fotografías de matronas, médicas, enfermeras y otras profesionales.",
+      "Mujeres en Profesiones Sanitarias (1834–1950): Historia y Rol de la Mujer en la Salud Chilena"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20240401_124930.jpg",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm\n\nEn este edificio funcionó el Laboratorio de Alta Tensión que en su inicio\nfue parte del Instituto de Investigaciones y Ensayes Eléctricos (IIEE),\nantecesor del actual Departamento de Ingeniería Eléctrica. Fue\nconstruido a principios de la década de 1950 con aportes de la Empresa\nNacional de Electricidad (ENDESA), la que ocupaba con oficinas y\nlaboratorios el tercer piso del edificio. En el segundo nivel se encontraba\nla dirección del Instituto, en tanto que otras de sus reparticiones\nfuncionaban en el edificio de Física. El edificio de Alta Tensión fue\nremodelado para crear el Laboratorio de Electrotecnologías (2002) y\nalbergar el Centro Avanzado de Tecnología para la Minería (AMTC, 2009).",
+      "Este edificio albergó originalmente el Laboratorio de Alta Tensión, parte del antiguo IIEE. Construido en los 50 con apoyo de ENDESA, tuvo oficinas y laboratorios en pisos superiores. Luego se remodeló para el Laboratorio de Electrotecnologías y el AMTC.",
+      "Memoria Histórica FCFM: Laboratorio de Alta Tensión, Electrotecnologías y AMTC"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20240603_120302.jpg",
+    "annotations": [
+      "EL VOTO\n\nUNA MANO QUE EN FORMA INDIVIDUAL Y SECRETA\nDEPOSITA EL VOTO EN LA URNA.\n\nESA SERA LA VOZ DE LA GENTE, LA MAYOR RESPONSABILIDAD DE LOS\nCIUDADANOS AL ELEGIR A SUS GOBERNANTES.\n\nMARIO TORAL\n2011",
+      "El voto es un acto individual y secreto que representa la voz de la ciudadanía al elegir a sus gobernantes. — Mario Toral, 2011.",
+      "El Voto — Responsabilidad Ciudadana (Mario Toral, 2011)"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20250331_130243.jpg",
+    "annotations": [
+      "fcfm\nFACULTAD DE CIENCIAS\nFÍSICAS Y MATEMÁTICAS\nUNIVERSIDAD DE CHILE\n\nBEAUCHEF 850",
+      "Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile. Dirección: Beauchef 850.",
+      "FCFM — Facultad de Ciencias Físicas y Matemáticas (Beauchef 850)"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20250819_074905.jpg",
+    "annotations": [
+      "DON JUAN WILLIAMS REBOLLEDO\n1826 – 1910\n\nEN ESTA CASA VIVIÓ Y MURIÓ\nEL ILUSTRE ALMIRANTE, GLORIA\nDE LA MARINA Y DE LA PATRIA.\nVENCEDOR DE PAPUDO EN 1865\nY JEFE DE LA ESCUADRA EN LA\nGUERRA DEL PACÍFICO.\n\nINSTITUTO DE\nCONMEMORACION HISTORICA\n1949",
+      "Don Juan Williams Rebolledo (1826–1910). En esta casa vivió y murió el almirante, destacado por su victoria en Papudo en 1865 y su rol como jefe de la Escuadra en la Guerra del Pacífico. Placa colocada por el Instituto de Conmemoración Histórica en 1949.",
+      "Juan Williams Rebolledo — Almirante Chileno y Jefe de la Escuadra (Placa 1949)"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20250908_140611.jpg",
+    "annotations": [
+      "CAMPUS BEAUCHEF:\nUN PATRIMONIO QUE\nNOS PERTENECE A TODAS Y TODOS\n\n¿Sabías que el campus Beauchef se encuentra en una Zona Típica reconocida por el Consejo\nde Monumentos Nacionales? Este entorno único refleja la tradición universitaria y la arquitectura de\nSantiago en la década de 1920. Nuestros edificios, incluyendo el emblemático edificio Escuela,\nson declarados inmuebles de conservación histórica. Esto significa que sus fachadas\nestán legalmente protegidas y no pueden ser intervenidas ni dañadas.\n\nEl Edificio Escuela, con la icónica inscripción “Escuela de Ingeniería” en el acceso principal —la\n“E” debido a la reforma ortográfica de Andrés Bello implementada a principios de siglo pasado—, se\nha usado ininterrumpidamente por generaciones. Ha sido la matriz de la PCDM, la sede del\nDepartamento de Humanidades, y un hito que testimonia el desarrollo de la ingeniería y la docencia\nen Chile. Este edificio es parte esencial de nuestra identidad.\n\nEl campus no solo conserva tradición: la Escuela se proyecta al futuro con estudiantes, académicos,\nacadémicas, funcionarios y funcionarias que continúan construyendo esta historia.\n\nEste edificio representa la memoria viva de generaciones de estudiantes, académicos/as y\nfuncionarios/as. Tu cuidado es parte de este proceso. Por eso, cuí­dalo: te permitirá honrar nuestro\npasado y proteger nuestro futuro.\n\nDisfruta, celebra\ny cuida nuestro patrimonio",
+      "El Campus Beauchef es parte de una Zona Típica protegida, y sus edificios forman parte del patrimonio histórico de la Universidad de Chile. El Edificio Escuela, con su icónica inscripción, ha sido usado por generaciones y representa la memoria académica de la ingeniería chilena. Su cuidado protege nuestra historia y futuro.",
+      "Campus Beauchef — Patrimonio Histórico, Identidad Universitaria y Protección Arquitectónica"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20250908_154959.jpg",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm\n\nEste edificio, construido para albergar el IDIEM, fue inaugurado\nel 19 de diciembre de 1952 en una ceremonia que contó con la\npresencia del Presidente de la República, Carlos Ibáñez del\nCampo, el Rector de la Universidad, Juvenal Hernández, el\nDecano de la Facultad de Ciencias Físicas y Matemáticas\nReinaldo Harnecker y el Director del IDIEM Edmundo Thomas.",
+      "Este edificio fue construido para albergar al IDIEM y se inauguró el 19 de diciembre de 1952. La ceremonia contó con la presencia del Presidente Carlos Ibáñez del Campo, el Rector Juvenal Hernández, el Decano Reinaldo Harnecker y el Director Edmundo Thomas.",
+      "Memoria Histórica FCFM — Inauguración del Edificio IDIEM (1952)"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20250908_155938.jpg",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm\n\nEn este lugar funcionó el primer estudio del Canal 9 de\ntelevisión de la Universidad de Chile, que inició sus\ntransmisiones el 4 de noviembre de 1960. Este logro fue el\nresultado del trabajo desarrollado por tres jóvenes ingenieros\neléctricos de la FCFM, Bartolomé Dezerega, Charles\nHaramoto y Rodolfo Baffico, quienes en octubre de 1959\nlograron obtener la primera señal de televisión inalámbrica en\nChile con equipos diseñados por ellos.",
+      "Aquí funcionó el primer estudio del Canal 9 de la Universidad de Chile, cuyas transmisiones comenzaron el 4 de noviembre de 1960. El proyecto fue desarrollado por los ingenieros Bartolomé Dezerega, Charles Haramoto y Rodolfo Baffico, quienes en 1959 lograron la primera señal de TV inalámbrica en Chile.",
+      "Memoria Histórica FCFM — Primer Estudio del Canal 9 y Primera Señal de TV Inalámbrica en Chile"
+    ]
+  },
+  {
+    "image_path": "/content/OCR/20250908_160638.jpg",
+    "annotations": [
+      "MEMORIA HISTÓRICA fcfm\n\nLos medallones a la derecha e izquierda de la parte\nsuperior de esta entrada fueron instalados al momento\nde inaugurar el edificio en 1922, en recuerdo de los\nDecanos Diego A. Torres (1894 – 1907) y Domingo V.\nSanta María (1907 – 1909).",
+      "Los medallones ubicados sobre esta entrada fueron instalados en 1922 en honor de los decanos Diego A. Torres y Domingo V. Santa María.",
+      "Memoria Histórica FCFM — Medallones Conmemorativos de los Decanos (1922)"
+    ]
   }
 ]
+
+
