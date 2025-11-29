@@ -14,5 +14,109 @@
 	"The image shows an empty train track running straight through a desert landscape. The ground around the track is dry and sparse, with very little vegetation. In the distance, the terrain extends toward low hills under a clear sky. The overall scene feels open, quiet, and isolated.",
 	"The image depicts a long and empty train track cutting across a wide desert environment. The ground is dry and mostly barren, with only small patches of vegetation scattered on both sides. The landscape stretches far into the distance, gradually meeting low hills on the horizon. Overhead, the weather is clear, and the sky appears bright with a few soft clouds. The straight alignment of the track reinforces a sense of depth and direction. The overall setting feels remote and uninhabited, emphasizing the stillness of the desert surroundings."
     ]
+  },
+  {
+    "image_path": "/content/IC/03.jpg",
+    "annotations": [
+      "An old hand holding itself. It is wearing a ring with blue gems.",
+      "The image shows an elderly hand gently clasping itself, suggesting a moment of stillness or reflection. The skin appears wrinkled, and a ring with blue gems stands out as a small but colorful detail. The overall composition conveys a quiet and intimate atmosphere.",
+      "The scene focuses on an elderly hand resting against itself, revealing fine details such as wrinkles and natural texture. The soft pose suggests contemplation or comfort. A ring adorned with blue gemstones draws immediate attention, contrasting with the muted tones of the skin. The gems reflect light delicately, adding an elegant element to the image. The close-up framing highlights themes of aging, memory, and personal significance. Overall, the photograph conveys dignity and emotional depth through simple visual elements."
+    ]
+  },
+  {
+    "image_path": "/content/IC/04.jpg",
+    "annotations": [
+      "The sun setting on the beach. The place has seagulls and people in it.",
+      "The image captures a beach during sunset, with warm tones spreading across the sky. People walk along the shore while seagulls fly overhead. The soft lighting creates a calm and relaxing environment.",
+      "The photograph shows a beach illuminated by the warm glow of a setting sun, with the sky transitioning to deeper evening colors. Several people enjoy the shoreline, adding life to the peaceful scene. Seagulls glide above the sand and water, bringing motion to the landscape. The sun’s reflection creates shimmering patterns on the waves. The overall composition mixes tranquility, natural beauty, and everyday activity, making the scene feel both lively and serene."
+    ]
+  },
+  {
+    "image_path": "/content/IC/05.jpg",
+    "annotations": [
+      "A green field with sunflowers. The weather is cloudy and the scene has mountains.",
+      "The image shows a wide sunflower field under a cloudy sky. Soft light covers the landscape, and mountains rise in the background. The overall view feels natural and peaceful.",
+      "The photograph presents an expansive field of sunflowers, their bright yellow petals contrasting with the muted light of a cloudy day. The overcast sky creates a diffused illumination that softens the entire scene. Behind the field, mountains provide depth and a sense of scale. The sunflowers vary in height and direction, giving the scene a dynamic natural texture. The atmosphere feels calm, rural, and strongly connected to nature."
+    ]
+  },
+  {
+    "image_path": "/content/IC/06.jpg",
+    "annotations": [
+      "An old man transporting a keyboard. Behind him are trees and old structures.",
+      "The image shows an elderly man carrying a keyboard as he walks. Trees and worn buildings surround the area, giving the scene a simple, everyday feeling.",
+      "The photograph depicts an older man holding a keyboard carefully as he moves forward, suggesting effort and routine. Trees provide shade around him, contrasting with the aged buildings in the background. The structures appear weathered, hinting at a long-standing environment. His posture and expression add a sense of familiarity with the place. Overall, the image conveys a mix of daily life, aging, and a setting rich with history."
+    ]
+  },
+  {
+    "image_path": "/content/IC/07.jpg",
+    "annotations": [
+      "A massive car crash in the city. The main vehicles are two yellow buses and two black cars.",
+      "The image shows a major traffic accident involving two yellow buses and two black cars. The crash appears to have happened in an urban area with buildings and streets nearby. Several vehicles show visible damage. The scene suggests a serious collision with significant impact.",
+      "The photograph captures a chaotic urban crash where two yellow buses and two black cars have collided violently. The vehicles display extensive damage, indicating the force of the impact. Surrounding buildings and city infrastructure frame the scene, emphasizing its location in a busy area. Debris is scattered across the pavement, adding to the sense of disorder. The presence of multiple large vehicles suggests traffic disruption and potential injuries. Overall, the scene conveys urgency, seriousness, and the disruptive nature of such an event."
+    ]
+  },
+  {
+    "image_path": "/content/IC/08.jpg",
+    "annotations": [
+      "A staircase that leads to a white wall. Behind there are windows that lead to darkness.",
+      "The image shows a staircase rising toward a plain white wall. Behind the stairs, several windows appear completely dark. The scene feels empty and quiet, with little detail visible beyond the immediate structure.",
+      "The photograph presents a staircase ascending directly into a blank white wall, creating a sense of interruption or incompleteness. Behind the stairs, dark windows contrast sharply with the lighter surfaces, suggesting unlit or empty interior spaces. The minimal lighting emphasizes the geometric shapes formed by the steps and wall. The composition conveys a mysterious atmosphere, as the viewer cannot see what lies beyond the darkness. Overall, the setting feels isolated, architectural, and slightly unsettling due to the lack of context."
+    ]
+  },
+  {
+    "image_path": "/content/IC/09.jpg",
+    "annotations": [
+      "An old beige university building entrance. It has two floors and many picture windows.",
+      "The image shows the front entrance of an old beige university building. The structure has two floors and several large windows. Its design suggests an academic or institutional purpose. The atmosphere feels formal and slightly historic.",
+      "The photograph features a beige university building with a symmetrical façade and two distinct levels. Numerous picture windows create a rhythm across the structure, allowing natural light to enter. The entrance appears formal, hinting at a long-standing educational institution. Subtle architectural details contribute to a sense of history and tradition. The building’s weathered appearance suggests years of use and student activity. Overall, the scene conveys stability, academia, and a sense of place tied to learning."
+    ]
+  },
+  {
+    "image_path": "/content/IC/10.jpg",
+    "annotations": [
+      "A statue of a humanoid condor and a dog. The monument is in the middle of a park.",
+      "The image shows a statue representing a humanoid condor standing beside a dog. The monument is located in the center of a park surrounded by greenery. The scene feels calm and open.",
+      "The photograph presents a unique monument depicting a humanoid condor figure accompanied by a dog at its side. The sculpture stands prominently in a park, framed by trees and well-kept grass. Its stylized design draws attention and invites curiosity about its symbolism. The open surroundings give the statue space to stand out as a focal point. The calm atmosphere suggests a recreational or cultural area. Overall, the image conveys a blend of nature, art, and local identity."
+    ]
+  },
+  {
+    "image_path": "/content/IC/11.jpg",
+    "annotations": [
+      "A bunch of people cleaning the windows of a building. The highway can be seen with vehicles on the side.",
+      "The image shows several workers cleaning the windows of a tall building. In the background, a highway with passing vehicles is visible. The scene shows daily urban activity and maintenance work.",
+      "The photograph depicts multiple window cleaners suspended on a building façade, working in coordinated fashion. Their equipment and safety harnesses indicate a professional cleaning operation. Behind them, a busy highway runs parallel to the structure, filled with moving cars and trucks. The contrast between vertical labor and horizontal traffic highlights different layers of city life. The scene conveys movement, routine, and the constant upkeep required in urban environments."
+    ]
+  },
+  {
+    "image_path": "/content/IC/12.jpg",
+    "annotations": [
+      "A yellow and white old building with different businesses. It seems to be a central market.",
+      "The image shows a yellow and white building that hosts several small businesses. Its appearance suggests it may function as a local market. The structure looks old but active, with signs of regular commercial activity.",
+      "The photograph captures a yellow and white building that appears to serve as a central market or community commercial area. Various storefronts occupy the ground level, each with distinct signage and visual identity. The building shows signs of age, such as worn walls and older architectural details. Despite this, the place looks lively and frequented. The overall scene suggests a neighborhood hub where vendors and customers interact daily."
+    ]
+  },
+  {
+    "image_path": "/content/IC/13.jpg",
+    "annotations": [
+      "A variety of fruit in a fruit and vegetable market. The scale for the items can be seen.",
+      "The image shows a colorful assortment of fruits displayed in a market stall. A weighing scale is visible next to the produce. The scene feels vibrant and full of fresh products.",
+      "The photograph features a diverse collection of fruits arranged neatly in a market setting, creating a rich mix of colors and textures. A traditional weighing scale sits nearby, indicating active buying and selling. The produce appears fresh and abundant, suggesting a busy and well-stocked marketplace. The close-up perspective highlights the natural details of the fruit. Overall, the scene conveys freshness, commerce, and the lively atmosphere typical of local markets."
+    ]
+  },
+  {
+    "image_path": "/content/IC/14.jpg",
+    "annotations": [
+      "A carnival carousel in the night. The venue has vibrant lighting and a lot of people.",
+      "The image shows a brightly lit carousel operating at night. Many people are gathered around, enjoying the attraction. The lights create a festive and colorful atmosphere.",
+      "The photograph captures a nighttime carnival scene centered around a spinning carousel illuminated by vivid lights. The warm glow contrasts against the dark sky, drawing visitors toward the ride. Crowds of people fill the area, contributing to a lively and energetic ambiance. The movement of the carousel adds dynamic visual interest. Decorative lighting enhances the festive mood and makes the venue feel welcoming. Overall, the scene conveys excitement, entertainment, and the joy of public celebrations."
+    ]
+  },
+  {
+    "image_path": "/content/IC/15.jpg",
+    "annotations": [
+      "Santa Claus being transported by a motorcycle rider. The vehicle is red and platinum, and the weather is cloudy.",
+      "The image shows a person dressed as Santa Claus riding on the back of a red and platinum motorcycle. A motorcyclist drives the vehicle through a cloudy setting. The scene feels playful and unusual.",
+      "The photograph depicts a man dressed as Santa Claus being carried on a striking red and platinum motorcycle driven by a rider in front. The cloudy weather creates a muted backdrop that makes the bright costume and vehicle stand out. Santa’s outfit adds a humorous and festive twist to the otherwise ordinary scene. The dynamic posture of both people suggests movement and direction. The contrast between holiday imagery and everyday transportation gives the image a quirky charm. Overall, it blends humor, seasonality, and spontaneous street activity."
+    ]
   }
 ]
