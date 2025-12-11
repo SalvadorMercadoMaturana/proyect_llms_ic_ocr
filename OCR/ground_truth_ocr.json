@@ -1,5 +1,13 @@
 [
   {
+    "image_path": "/content/OCR/20220101_035959.jpg",
+    "annotations": [
+      "POR ORDEN DEL SR. COMISARIO\nSE PROHIBE ENTRAR\nARMADO Y CON SOMBRERO\nAL DESPACHO DE BEBIDAS\nORDEN POLICIAL\nFEBRERO 1892",
+      "Por orden del Sr. Comisario, se prohíbe la entrada armado y con sombrero al despacho de bebidas. Orden emitida en febrero de 1892.",
+      "Prohibición de entrada armado y con sombrero al despacho de bebidas - Febrero 1892"
+    ]
+  },
+  {
     "image_path": "/content/OCR/20250819_074858.jpg",
     "annotations": [
       "Cuartel\n“Manuel Antonio Matta”\n\nLa Sexta Compañía de Bomberos de Santiago,\n“Salvadores i Guardia de Propiedad”,\nrinde homenaje a quien fuera su Director Fundador\ny primer Director Honorario de la Institución\n\nDon Manuel Antonio Matta Goyenechea\n\ncon motivo del Centésimo Sexagésimo aniversario\nde Fundación.\n\nSantiago, agosto de 2023",
@@ -112,5 +120,6 @@
     ]
   }
 ]
+
 
 
